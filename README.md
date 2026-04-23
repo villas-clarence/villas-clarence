@@ -14,9 +14,9 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 
 - 🎓 DIT Student | Iskolar ng Bayan  
 - 💡 Currently building: **Capstone Web System**  
-- 🚀 Learning: **Full-Stack Development, APIs, System Design**  
+- 🚀 Learning: **Web Development, APIs, System Design**  
 - 🤝 Open to: Internships, collaborations, and freelance projects  
-- ☕ Fun fact: I debug better at night  
+- ☕ Fun fact: I usually code with music on
 
 ---
 
