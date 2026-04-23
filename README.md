@@ -58,13 +58,6 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 </p>
 
 
-## 🚀 Featured Projects
-
-<p align="center">
-🏫 <b>Student Information System (COBOL)</b><br>
-🌐 <b>Capstone Web Application (Laravel)</b><br>
-📊 <b>Database Normalization Toolkit</b>
-</p>
 
 <p align="center">
 👉 <a href="https://github.com/villas-clarence?tab=repositories">Explore more of my work</a>
