@@ -121,3 +121,7 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 - 🎯 Goal: Become a professional full-stack developer  
 
 ---
+
+## ✍️ Wisdom Quote
+
+> “First, solve the problem. Then, write the code.” — John Johnson
