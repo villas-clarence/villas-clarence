@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clarence Villas</h1>
-<h3 align="center">IT Student | Aspiring Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">IT Student | Aspiring Web Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Laravel+%7C+Node.js+%7C+Python;Building+Real-World+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
