@@ -37,46 +37,32 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+Python • C++ • JavaScript • PHP
 </p>
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+HTML • CSS • Laravel • Node.js
 </p>
 
 ### ⚙️ Tools & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+Git • GitHub • Composer • Cisco • PowerShell
 </p>
-
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🏫 **Student Information System (COBOL)**  
-- 🌐 **Capstone Web Application (Laravel)**  
-- 📊 **Database Normalization Toolkit**  
+<p align="center">
+🏫 <b>Student Information System (COBOL)</b><br>
+🌐 <b>Capstone Web Application (Laravel)</b><br>
+📊 <b>Database Normalization Toolkit</b>
+</p>
 
-👉 Explore more of my work here:  
-https://github.com/villas-clarence?tab=repositories
+<p align="center">
+👉 <a href="https://github.com/villas-clarence?tab=repositories">Explore more of my work</a>
+</p>
 
 ---
 
@@ -129,3 +115,5 @@ https://github.com/villas-clarence?tab=repositories
 - 💬 Ask me about: Laravel, Python, or system development  
 - ⚡ Motto: *"Build. Break. Learn. Repeat."*  
 - 🎯 Goal: Become a professional full-stack developer  
+
+---
