@@ -1,5 +1,4 @@
-<h1 align="center">Hi!👋 </h1>
-<h3 align="center">IT Student | Aspiring Web Developer</h3>
+<h1 align="center">IT Student | Aspiring Web Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student+Developer;Building+Real-World+Systems;Aspiring+Web+Developer;Laravel+%7C+Node.js+%7C+Python;Always+Learning+New+Things&center=true&width=500&height=45">
