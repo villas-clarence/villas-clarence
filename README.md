@@ -24,11 +24,8 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 
     const clarence = {
         location: "Taguig, Philippines 🇵🇭",
-        education: "PUP Taguig - Diploma in IT",
-        currentFocus: ["Laravel", "Full-Stack Development", "System Design"],
-        interests: ["Web Development", "UI/UX", "Backend Systems"],
-        contact: "clarencevillas.dev@gmail.com",
-        motto: "Build. Break. Learn. Repeat."
+        education: "PUP Taguig - Diploma in Information Techology",
+        currentFocus: ["Web Developmentt", "System Design"],
     };
 
 ---
