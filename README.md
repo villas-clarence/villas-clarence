@@ -84,13 +84,7 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 
 ---
 
-## 📌 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=villas-clarence&langs_count=10&theme=tokyonight&layout=compact" />
-</p>
-
----
 ## 📌 Most Used Languages
 
 <p align="center">
