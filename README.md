@@ -72,7 +72,19 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=villas-clarence&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=villas-clarence&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=villas-clarence&theme=tokyonight" />
+</p>
 
 ## 📌 Most Used Languages
 
