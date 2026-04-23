@@ -118,6 +118,20 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 
 ---
 
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://villascla-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Click%20Here-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+🚀 Explore my projects, skills, and experience in a live interactive portfolio.
+</p>
+
+---
+
 ## ✨ Extras
 
 - 💬 Ask me about: Laravel, Python, or system development  
