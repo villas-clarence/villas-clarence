@@ -2,7 +2,7 @@
 <h3 align="center">IT Student | Aspiring Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Laravel+%7C+Node.js+%7C+Python;Building+Real-World+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=FWeb+Developer;Laravel+%7C+Node.js+%7C+Python;Building+Real-World+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
