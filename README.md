@@ -59,7 +59,7 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
----
+
 
 ## 🚀 Featured Projects
 
@@ -91,12 +91,6 @@ I specialize in building **web-based systems** and enjoy solving real-world prob
 </p>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=villas-clarence&theme=dracula&no-frame=true&margin-w=15" />
-</p>
 
 ---
 
