@@ -9,20 +9,12 @@
 ## 👨‍💻 About Me
 
 I'm a Diploma in Information Technology student at **Polytechnic University of the Philippines - Taguig Campus** 🇵🇭.  
-I specialize in building **web-based systems** and enjoy solving real-world problems through code.
-
-- 🎓 DIT Student | Iskolar ng Bayan  
-- 💡 Currently building: **Capstone Web System**  
-- 🚀 Learning: **Web Development, APIs, System Design**  
-- 🤝 Open to: Internships, collaborations, and freelance projects  
-- ☕ Fun fact: I usually code with music on
 
 ---
 
 ## 🧠 Developer Profile
 
     const clarence = {
-        location: "Taguig, Philippines 🇵🇭",
         education: "PUP Taguig - Diploma in Information Techology"
     };
 
